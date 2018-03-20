@@ -19,6 +19,12 @@
   permalink: kleur/i
   # fa-icon: icon-info
 
+- name: Typografie
+description: Typografie
+# folder: pages/typografie
+permalink: /typografie
+# fa-icon: icon-info
+
 - name: Styleguide
   description: Stijlgids voor de Huistijlgids
   # folder: pages/stijlgids
