@@ -31,10 +31,10 @@
   permalink: /beeldtaal
   # fa-icon: icon-info
 
-- name: Quotes
-  description: quote
-  # folder: pages/quote/
-  permalink: /quote
+- name: Stijlelementen
+  description: stijlelement
+  # folder: pages/stijlelement/
+  permalink: /stijlelement
   # fa-icon: icon-info
 
 - name: Styleguide
