@@ -9,7 +9,7 @@
 
 - name: Home
   description: Home
-  # folder: pages/typografie/
+  # folder: pages/home/
   permalink: /home
   # fa-icon: icon-info
 
