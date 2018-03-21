@@ -31,6 +31,12 @@
   permalink: /beeldtaal
   # fa-icon: icon-info
 
+- name: Quotes
+  description: quote
+  # folder: pages/quote/
+  permalink: /quote
+  # fa-icon: icon-info
+
 - name: Styleguide
   description: Stijlgids voor de Huistijlgids
   # folder: pages/stijlgids
