@@ -27,7 +27,7 @@
 
 - name: Beeldtaal
   description: Beeldtaal
-  folder: pages/beeldtaal/
+  # folder: pages/beeldtaal/
   permalink: /beeldtaal
   # fa-icon: icon-info
 
