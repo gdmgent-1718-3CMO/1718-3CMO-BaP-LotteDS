@@ -7,6 +7,12 @@
   permalink: /index
   # fa-icon: icon-info
 
+- name: Home
+  description: Home
+  # folder: pages/typografie/
+  permalink: /home
+  # fa-icon: icon-info
+
 - name: Logo
   description: Logo
   folder: pages/logo/
