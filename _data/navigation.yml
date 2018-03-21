@@ -25,6 +25,12 @@
   permalink: /typografie
   # fa-icon: icon-info
 
+- name: Beeldtaal
+  description: Beeldtaal
+  folder: pages/beeldtaal/
+  permalink: /beeldtaal
+  # fa-icon: icon-info
+
 - name: Styleguide
   description: Stijlgids voor de Huistijlgids
   # folder: pages/stijlgids
