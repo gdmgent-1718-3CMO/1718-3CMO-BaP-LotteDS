@@ -45,7 +45,7 @@ a {
 }
 blockquote {
     padding-left: 24px;
-    border-left: 2px solid $mycolor-5;
+    border-left: 2px solid #006c56;
 }
 
 // ongeordende lijstjes met een ander symbool of kleur
@@ -58,7 +58,7 @@ main ul {
     text-indent: -25px;
     &:before {
         content:'\2022';
-        color: $mycolor-5;
+        color: #006c56;
         margin-right: 18px;
     }    
   }
@@ -81,8 +81,8 @@ main ol {
         margin-right: 5px;
         border-radius: 5px;
         background-color: $mycolor-5;
-        color: $color-white;
-        font-family: $myfont-family-title;
+        color: #cbdc83;
+        font-family: 'Karla', sans-serif;
         font-weight: $font-weight-bold;
       }    
     }
@@ -91,9 +91,9 @@ main ol {
 //forms 
 button, a.btn {
     
-    &:hover{}
-    &:active{}
-    &:focus{}
+    &:hover{color:#006c56;}
+    &:active{color:#cbdc83;}
+    &:focus{color:#006c56;}
 }
 input[type=text], textarea {
 
