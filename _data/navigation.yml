@@ -3,12 +3,6 @@
 
 - name: Home
   description: Home
-  # folder: pages/
-  permalink: /index
-  # fa-icon: icon-info
-
-- name: Home
-  description: Home
   # folder: pages/home/
   permalink: /home
   # fa-icon: icon-info
