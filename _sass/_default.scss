@@ -1,7 +1,7 @@
 // default-styling
 
 body {
-    font-family: $myfont-family-base;
+    font-family: 'Karla', sans-serif;
     font-weight: $font-weight-base;
     font-size: $font-size-base;
     line-height: $lineheight-base;
@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    font-weight: $font-weight-light;
+    font-weight: 'Karla-bold', sans-serif;
     font-size: 4rem;
     color: $color-grey-2;
 }
