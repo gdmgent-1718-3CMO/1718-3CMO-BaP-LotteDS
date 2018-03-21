@@ -5,9 +5,9 @@ published: true
 title: Logo intro
 ---
 
-# Het beste logo ooit
+# Logo
 
-## Consectetur adipiscing elit.
+## Gebruik
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Idem iste, inquam, de voluptate quid sentit? Istam voluptatem perpetuam quis potest praestare sapienti? Aliam vero vim voluptatis esse, aliam nihil dolendi, nisi valde pertinax fueris, concedas necesse est. Sed tamen enitar et, si minus multa mihi occurrent, non fugiam ista popularia. Sed ad bona praeterita redeamus. Duo Reges: constructio interrete. Atque ab isto capite fluere necesse est omnem rationem bonorum et malorum. Quamquam te quidem video minime esse deterritum.
 
