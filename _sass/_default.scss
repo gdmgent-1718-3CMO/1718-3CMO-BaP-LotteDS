@@ -12,12 +12,13 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Karla', sans-serif;
     font-weight: $font-weight-bold;
+    margin-bottom: 10px; 
 }
 
 h1 {
     font-weight: 'Karla-bold', sans-serif;
     font-size: 4rem;
-    color: $color-grey-2;
+    color: $color-grey-4;
 }
 h2 {
     font-weight: $font-weight-light;
