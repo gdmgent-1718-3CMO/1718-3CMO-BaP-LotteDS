@@ -31,6 +31,12 @@
   permalink: /beeldtaal
   # fa-icon: icon-info
 
+- name: Toepassingen
+  description: Toepassingen
+  # folder: pages/toepassingen/
+  permalink: /toepassingen
+  # fa-icon: icon-info
+
 - name: Stijlelementen
   description: stijlelement
   # folder: pages/stijlelement/
