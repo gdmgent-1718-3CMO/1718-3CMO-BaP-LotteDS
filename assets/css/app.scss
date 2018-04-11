@@ -1,3 +1,37 @@
+---
+---
 @charset "UTF-8";
 
 @import "main";
+
+.btn {
+    color: #cbdc83;
+}
+.navbar {
+    font-family: 'Karla-bold';
+    font-size: 14pt;
+    text-align: right;
+}
+.txt_footer {
+ margin-top: 5pt;
+ margin-bottom: 5pt;
+}
+body {
+    font-size: 16pt;
+}
+.img_toepassing {
+    width: 300px;
+    margin-bottom: 10pt; 
+  }
+
+.download {
+    background-color: #cbdc83;
+    border: none;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    color: black; 
+  }
+.download:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
