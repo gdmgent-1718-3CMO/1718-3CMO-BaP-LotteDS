@@ -41,7 +41,7 @@ a {
         background-color: #006c56;
         color: $color-white;
     }
-    &:focus{}
+    
 }
 blockquote {
     padding-left: 24px;
@@ -94,10 +94,8 @@ button, a.btn {
     &:active{color:#cbdc83;}
     &:focus{color:#006c56;}
 }
-input[type=text], textarea {
 
-}
 .navbar-brand {
-    width: 300px; 
+    width: 200px; 
 
 }
