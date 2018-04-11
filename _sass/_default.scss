@@ -31,9 +31,9 @@ h3, h4, h5, h6 {
 }
 a {
     text-decoration: none;
-    color: #cbdc83;
+    color: black;
     &:hover{
-        color: #006c56;
+        color: #cbdc83;
         text-decoration: none;
         border-bottom: solid 1px #006c56;
     }
@@ -45,7 +45,7 @@ a {
 }
 blockquote {
     padding-left: 24px;
-    border-left: 2px solid #006c56;
+    border-left: 4px solid #006c56;
 }
 
 // ongeordende lijstjes met een ander symbool of kleur
