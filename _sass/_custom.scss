@@ -1,6 +1,4 @@
-/* Navigation
----------------------------------------------
-*/
+
 .navbar a {
     border: none;
 }
@@ -8,10 +6,7 @@
   color: black;
 }
 
-/* FOOTER
-----------------------------------------------
-sticked to the bottom with small content pages
-*/
+
 html {
     height: 100%;
   }
@@ -37,9 +32,7 @@ footer {
     text-align: center;
 }
 
-/* BACK TO TOP
--------------------------
-*/
+
 #to-top {
   display: none; /* Hidden by default */
   position: fixed; /* Fixed/sticky position */
@@ -59,4 +52,7 @@ footer {
   &:hover {
     background-color:#cbdc83; 
   }
+}
+.btn {
+  color: #006c56; 
 }
